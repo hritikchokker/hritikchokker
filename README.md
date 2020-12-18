@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+
+<hr/>
+  
+  Hi, I'm Full Stack Developer having knowledge in JS frameworks,python.
+
+<hr/>
+
+- 🌱  I’m currently learning React Native
+- 📫  How to reach me: [Twitter](https://twitter.com/Hritik25303298) | [linkedin](https://www.linkedin.com/in/hritik-chokker-0370ab146/)
 
 <!--
 **hritikchokker/hritikchokker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
