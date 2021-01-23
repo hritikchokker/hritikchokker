@@ -2,7 +2,7 @@
 
 <hr/>
   
-  Hi, I'm Full Stack Developer having knowledge in JS frameworks,python.
+  Hi, I'm Full Stack Developer having knowledge in JS frameworks and python.
 
 <hr/>
 
