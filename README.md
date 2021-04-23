@@ -8,7 +8,7 @@
 
 <!-- - 🌱  I’m currently learning React Native -->
 - 🔭 I’m currently working on Angular,React and nodejs
--  🌱 I’m currently learning polymerjs and loves to solve dsa problems on my free time.
+-  🌱 I’m currently learning polymerjs
 - 📫  How to reach me: [Twitter](https://twitter.com/Hritik25303298) | [linkedin](https://www.linkedin.com/in/hritik-chokker-0370ab146/)
 
 <!--
