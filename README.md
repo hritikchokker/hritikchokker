@@ -8,7 +8,7 @@
 
 <!-- - 🌱  I’m currently learning React Native -->
 - 🔭 I’m currently working on Angular,React
-- 🌱 I’m currently learning graphql, vuejs and react native
+- 🌱 I’m currently learning graphql and vuejs
 - 📫  How to reach me: [Twitter](https://twitter.com/Hritik25303298) | [linkedin](https://www.linkedin.com/in/hritik-chokker-0370ab146/)
 
 <!--
