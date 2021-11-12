@@ -7,8 +7,8 @@
 <hr/>
 
 <!-- - 🌱  I’m currently learning React Native -->
-- 🔭 I’m currently working on Angular,Firebase & reactjs
-- 🌱 I’m currently learning vuejs,nestjs
+- 🔭 I’m currently working on Angular,Firebase,reactjs & vuejs
+- 🌱 I’m currently learning nodejs
 - 📫  How to reach me: [Twitter](https://twitter.com/Hritik25303298) | [linkedin](https://www.linkedin.com/in/hritik-chokker-0370ab146/)
 
 <!--
