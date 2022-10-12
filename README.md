@@ -2,7 +2,7 @@
 
 <hr/>
   
-  Hi, I'm Web Developer having knowledge in JS frameworks and python.
+  Hi, I'm Web Developer having knowledge in JS frameworks (FrontEnd & BackEnd Application Development).
 
 <hr/>
 
