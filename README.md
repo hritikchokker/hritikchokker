@@ -1,4 +1,4 @@
-### Hi there, I'm [Hritik Chokker] 👋
+### Hi there, I'm Hritik Chokker 👋
 
 I'm a full-stack web developer with experience in building web applications using various technologies.
 
