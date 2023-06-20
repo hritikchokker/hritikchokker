@@ -30,7 +30,6 @@ Feel free to explore my GitHub repositories to see my projects and contributions
 
 - Email: [chokker.hritik@gmail.com](mailto:chokker.hritik@gmail.com)
 - LinkedIn: [Hritik Chokker](https://www.linkedin.com/in/hritik-chokker-0370ab146/)
-<-- - Portfolio: [yourportfolio.com](https://www.yourportfolio.com)  -->
 
 Let's connect and collaborate on exciting projects together!
 
