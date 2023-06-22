@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer with experience in building web applications using various technologies.
 
-## Tech Stack
+<!-- ## Tech Stack
 
 - JavaScript (including Node.js)
 - AWS
@@ -22,7 +22,7 @@ I'm a full-stack web developer with experience in building web applications usin
 - Python
 - TypeScript
 - Jira
-- Kubernetes
+- Kubernetes -->
 
 Feel free to explore my GitHub repositories to see my projects and contributions.
 
